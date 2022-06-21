@@ -4,3 +4,4 @@
 2. -pip install requests
 3. -pip install beautifulsoup4
 4. -pip install lxml
+5. Open "parser" file via cmd console
